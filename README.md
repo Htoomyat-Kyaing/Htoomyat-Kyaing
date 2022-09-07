@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Htoomyat-Kyaing
 - 👀 I’m interested in ... coding & programming.
-- 🌱 I’m currently learning ... PHP and Laravel.
+- 🌱 I’m currently learning ... WordPress and Laravel.
 - 📫 How to reach me ... LinkedIn : https://www.linkedin.com/in/htoomyat-kyaing/
 
 <!---
