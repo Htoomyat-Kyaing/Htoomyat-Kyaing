@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Htoo Myat Kyaing, a university student pursuing the degree in Computer Engineering and Information Technology.</p>
+<p align="left">I'm Htoo Myat Kyaing, a university student pursuing a degree in Computer Engineering and Information Technology. I'm passionate about full-stack web development and also have a keen interest in AI, especially deep learning.</p>
 
 ###
 
