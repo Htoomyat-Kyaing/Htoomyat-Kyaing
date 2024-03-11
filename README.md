@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Htoo Myat Kyaing, a university student pursuing degrees in Computer Engineering and Information Technology.</p>
+<p align="left">I'm Htoo Myat Kyaing, a university student pursuing the degree in Computer Engineering and Information Technology.</p>
 
 ###
 
@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on : <a href="https://github.com/Htoomyat-Kyaing/integrated-design-project">Integrated Design Project</a>.<br>🌱 I’m currently learning :  Next.js and Python.<br>📫 How to reach me : https://www.linkedin.com/in/htoomyat-kyaing/</p>
+<p align="left">🔭 I’m currently working on : Trying to do thesis on AI and Data Science field.<br>🌱 I’m currently learning : Python.<br>📫 How to reach me : https://www.linkedin.com/in/htoomyat-kyaing/</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My tech stack</h2>
 
 ###
 
