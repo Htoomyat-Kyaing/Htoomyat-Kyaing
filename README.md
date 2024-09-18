@@ -14,15 +14,15 @@
 
 ###
 
-<p align="left">I'm Htoo Myat Kyaing, a university student pursuing a degree in Computer Engineering and Information Technology. I'm passionate about full-stack web development and also have a keen interest in AI, especially deep learning.</p>
+<p align="left">I'm Htoo Myat Kyaing, a university student pursuing a degree in Computer Engineering and Information Technology. I'm passionate about full-stack web development and currently exploring for opportunities. I'm expected to graduate around March, 2025. You're welcome to check my projects anytime!</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Status</h2>
 
 ###
 
-<p align="left">🔭 I’m currently working on : Trying to do thesis on AI and Data Science field.<br>🌱 I’m currently learning : Python.<br>📫 How to reach me : https://www.linkedin.com/in/htoomyat-kyaing/</p>
+<p align="left">🔭 I’m currently working on : My thesis. It's about developing a full-stack web application and optimizing performance.<br>🌱 I’m currently learning : Microsoft Word 🤣. God damn writing thesis in word is hard. <br>📫 How to reach me : https://www.linkedin.com/in/htoomyat-kyaing/</p>
 
 ###
 
